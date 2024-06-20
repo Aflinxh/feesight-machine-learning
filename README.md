@@ -1,4 +1,4 @@
-# Welcome to ScanCare Machine Learning
+# Welcome to FeeSight - Machine Learning
 
 This is our Colab Notebook script for building a model to recognize skincare products.
 
