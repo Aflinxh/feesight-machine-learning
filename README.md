@@ -8,11 +8,11 @@ Follow the steps below, and don't miss anything:
 
 1. Clone this repository via the command prompt
    ```sh
-   https://github.com/ScanCareApp/scancare-machine-learning-model.git
+   https://github.com/Aflinxh/feesight-machine-learning
    ```
-2. If you are using the Google Colab platform to run the code, you need to upload the zip file `dataset_gambar_skincare_new.zip` to Google Drive.
-3. Navigate to the scancare-train-model and import the file `klasifikasi_skincare_vgg19.ipynb` into Google Colab.
+2. Navigate to the Asset Prediction folder, open that folder then choose one of two subfolder that you want to try to run. For example, if you want to try running the stock prediction then choose the stock subfolder. 
+3. Import one of `.ipynb` from the subfolder that you choose in step 2 into Google Colab. For example, if you choose the stock subfolder and want to try running the bbca stock prediction, you should import the `BBCA.ipynb` into Google Colab.
 4. Run the code in the notebook in the specified order.
 
 ## How to Test the Model?
-1. Go to the last code sequence in the notebook and run it. Then, input an image from the testing folder to recognize the image.
+1. Go to the last cell code sequence in the notebook and run it. Then, input the date with format YYYY-MM-DD. 
