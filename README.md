@@ -11,7 +11,7 @@ Follow the steps below, and don't miss anything:
    https://github.com/Aflinxh/feesight-machine-learning
    ```
 2. Navigate to the Asset Prediction folder, open that folder then choose one of two subfolder that you want to try to run. For example, if you want to try running the stock prediction then choose the stock subfolder. 
-3. Import one of `.ipynb` from the subfolder that you choose in step 2 into Google Colab. For example, if you choose the stock subfolder and want to try running the bbca stock prediction, you should import the `BBCA.ipynb` into Google Colab.
+3. Import one of `.ipynb` from the subfolder that you choose in step 2 into Google Colab. For example, if you choose the stock subfolder and want to try running the bbca stock prediction, you should import the `predict_bbca.ipynb` into Google Colab.
 4. Run the code in the notebook in the specified order.
 
 ## How to Test the Model?
