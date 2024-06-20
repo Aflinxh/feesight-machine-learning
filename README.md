@@ -15,7 +15,8 @@ Follow the steps below, and don't miss anything:
 4. Run the code in the notebook in the specified order.
 
 ## How to Test the Model?
-1. Go to the last cell code sequence in the notebook and run it. Then, input the date with format YYYY-MM-DD. 
+1. Make sure the .ipynb has access to .h5 file
+2. Go to the last cell code sequence in the notebook and run it. Then, input the date with format YYYY-MM-DD. 
 
 ## Developer
 - [Alfin Gusti Alamsyah](https://github.com/Aflinxh)
