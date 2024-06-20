@@ -1,6 +1,6 @@
 # Welcome to FeeSight - Machine Learning
 
-This is our Colab Notebook script for building a model to recognize skincare products.
+This is our Colab Notebook script for building a model to predict asset close price: crypto & stocks.
 
 ## Let's Get Started
 
