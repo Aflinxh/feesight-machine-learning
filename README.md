@@ -16,3 +16,8 @@ Follow the steps below, and don't miss anything:
 
 ## How to Test the Model?
 1. Go to the last cell code sequence in the notebook and run it. Then, input the date with format YYYY-MM-DD. 
+
+## Developer
+- [Alfin Gusti Alamsyah](https://github.com/Aflinxh)
+- [Michael Tjoanda](https://github.com/michaelmtj)
+- [Faizah Hanif Azzahra](https://github.com/faizahhanif)
